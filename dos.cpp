@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    string message = "Hello World!";
+    string message = "Example for AyED2";
 
     cout << message << endl;
 
