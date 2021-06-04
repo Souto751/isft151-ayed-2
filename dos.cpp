@@ -1,9 +1,10 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main(){
 
-    int message = "Hello World!";
+    string message = "Hello World!";
 
     cout << message << endl;
 
