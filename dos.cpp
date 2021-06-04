@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    string message = "Example for AyED2, TP Git & GitHub";
+    string message = "Hello World! 2.0";
 
     cout << message << endl;
 
