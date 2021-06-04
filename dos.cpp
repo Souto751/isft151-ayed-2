@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    string message = "Hello World! 2.75";
+    string message = "Hello World! 7.0";
 
     cout << message << endl;
 
