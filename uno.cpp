@@ -7,5 +7,8 @@ int main(){
 
     cout << number << endl;
 
+    cin.get();
+    cin.ignore();
+
     return 0;
 }
